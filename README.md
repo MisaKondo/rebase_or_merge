@@ -35,4 +35,7 @@ git checkout -b merge_iiyone
 8. Network図をみんなでみながら、各PRと、リポジトリのcons.mdとpros.mdをみてみよう（みんなで）
 
 
-参加者
+## 参加者
+
+- merge派
+- rebase派
