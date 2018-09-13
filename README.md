@@ -25,13 +25,11 @@ git checkout -b merge_iiyone
 
 ## 本番
 
-1. Rebase派の人はそれぞれ自分が思うRebaseのprosを　pros.mdに書き連ねてください(チーム作業)
-2. Merge派の人はそれぞれ自分が思うMergeのprosを　pros.mdに書き連ねてください(チーム作業)
-3. masterを各々の流派に従い取り込んでください
-4. 3の作業が終わったらMerge派の人はPRを出してください
-5. 4の作業が終わったらRebase派の人はPRを出してください
-6. Rebase派の人はそれぞれ自分が思うRebaseのconsを　cons.mdに書き連ねてください(チーム作業)
-7. Merge派の人はそれぞれ自分が思うMergeのconsを　cons.mdに書き連ねてください(チーム作業)
-8. 7の作業が終わったらRebase派の人はPRを出してください
-9. 8の作業が終わったらMerge派の人はPRを出してください
-10. Network図をみんなでみながら、各PRと、リポジトリのcons.mdとpros.mdをみてみよう（みんなで）
+1. それぞれの流派の人は自分が思うprosを　pros.mdに書き連ねてください(チーム作業)
+2. masterを各々の流派に従い取り込んでください
+3. 2の作業が終わったらMerge派の人はPRを出してください
+4. 3の作業が終わったらRebase派の人はPRを出してください
+5. それぞれの流派の人は自分が思うconsを　cons.mdに書き連ねてください(チーム作業)
+6. 5の作業が終わったらRebase派の人はPRを出してください
+7. 6の作業が終わったらMerge派の人はPRを出してください
+8. Network図をみんなでみながら、各PRと、リポジトリのcons.mdとpros.mdをみてみよう（みんなで）
