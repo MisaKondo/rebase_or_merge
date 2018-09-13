@@ -4,6 +4,7 @@
 2. Rebase派とMerge派に別れたこのリポジトリをcloneする
 3. 近藤は今日はひたすらmasterを更新し続ける派
 ```
+git clone git@github.com:MisaKondo/rebase_or_merge.git
 ```
 
 ## Rebase派の人
