@@ -33,3 +33,9 @@ git checkout -b merge_iiyone
 6. 5の作業が終わったらRebase派の人はPRを出してください
 7. 6の作業が終わったらMerge派の人はPRを出してください
 8. Network図をみんなでみながら、各PRと、リポジトリのcons.mdとpros.mdをみてみよう（みんなで）
+
+
+## 参加者
+
+- merge派
+- rebase派
